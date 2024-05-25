@@ -1,0 +1,39 @@
+21:54:33.143 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - URL is opened successfully
+21:54:33.455 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Username is entered successfully
+21:54:33.536 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - password is entered successfully
+21:54:33.603 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Admin radio btn is selected successfully
+21:54:33.727 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Value is selected from dropdown is successfuly
+21:54:33.788 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Clicked on Checkbox successfully
+21:54:33.855 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Clicked on sign btn successfully
+21:55:16.159 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Browser is closed successfully
+21:55:18.176 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Browser is closed successfully
+22:02:01.827 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Browser is Launched successfully
+22:02:02.357 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - URL is opened successfully
+22:02:03.874 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Browser is Launched successfully
+22:02:04.080 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Username is entered successfully
+22:02:04.262 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - password is entered successfully
+22:02:04.377 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Admin radio btn is selected successfully
+22:02:04.571 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - URL is opened successfully
+22:02:04.593 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Value is selected from dropdown is successfuly
+22:02:04.861 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Clicked on Checkbox successfully
+22:02:05.044 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Clicked on sign btn successfully
+22:02:05.227 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Username is entered successfully
+22:02:05.401 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - password is entered successfully
+22:02:05.498 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Admin radio btn is selected successfully
+22:02:05.696 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Value is selected from dropdown is successfuly
+22:02:05.937 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Clicked on Checkbox successfully
+22:02:06.143 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Clicked on sign btn successfully
+22:02:10.255 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - test passed....
+22:02:10.736 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - test passed....
+22:02:14.436 [TestNG-tests-1] INFO  com.automationbatch1.testcases.LoginTest - Browser is closed successfully
+22:02:15.104 [TestNG-tests-2] INFO  com.automationbatch1.testcases.LoginTest - Browser is closed successfully
+22:06:06.176 [main] INFO  com.automationbatch1.testcases.LoginTest - Browser is Launched successfully
+22:06:08.615 [main] INFO  com.automationbatch1.testcases.LoginTest - URL is opened successfully
+22:06:09.367 [main] INFO  com.automationbatch1.testcases.LoginTest - Username is entered successfully
+22:06:09.453 [main] INFO  com.automationbatch1.testcases.LoginTest - password is entered successfully
+22:06:09.518 [main] INFO  com.automationbatch1.testcases.LoginTest - Admin radio btn is selected successfully
+22:06:09.652 [main] INFO  com.automationbatch1.testcases.LoginTest - Value is selected from dropdown is successfuly
+22:06:09.710 [main] INFO  com.automationbatch1.testcases.LoginTest - Clicked on Checkbox successfully
+22:06:09.782 [main] INFO  com.automationbatch1.testcases.LoginTest - Clicked on sign btn successfully
+22:06:14.005 [main] INFO  com.automationbatch1.testcases.LoginTest - test passed....
+22:06:17.874 [main] INFO  com.automationbatch1.testcases.LoginTest - Browser is closed successfully
